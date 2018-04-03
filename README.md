@@ -1,3 +1,5 @@
+<p align="center"><img src="https://desktop.github.com/images/desktop-icon.svg"></p>
+
 #GIT - comandos
 
 ## Estados
@@ -443,4 +445,6 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 
 # Contribuições
 Renato Lucena - Goiania-GO
+- Autor: Renato de Oliveira Lucena
+- Desenvolvedor web PHP- Freelance - UNIP system analysis and development , encaro desafios. Studying Laravel and Vue.js.
 Sinta-se a vontade para realizar adicionar mais informações ou realizar correções.
