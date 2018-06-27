@@ -441,7 +441,32 @@ Se o commit estiver com o problema, então ele deverá ser marcado como **ruim**
 Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 
 	git bisect reset
+## Git Lab exemplo:
+Command line instructions
 
+
+Git global setup
+
+git config --global user.name "user"
+git config --global user.email "user@gmail.com"
+
+Create a new repository
+
+git clone https://gitlab.com/usser/projeto.git
+cd automoveis
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+Existing folder
+
+cd existing_folder
+git init
+git remote add origin https://gitlab.com/user/projeto.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
 
 # Contribuições
 Renato Lucena - Goiania-GO
